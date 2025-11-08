@@ -18,7 +18,6 @@ void reverse(string &str, int i, int j)
 
 int main()
 {
-
       string name = "abcde";  
       cout << endl;
       reverse(name, 0, name.length() - 1);
