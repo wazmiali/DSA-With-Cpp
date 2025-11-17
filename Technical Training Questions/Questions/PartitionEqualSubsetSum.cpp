@@ -7,7 +7,7 @@
 // Explanation: The array can be partitioned as [1, 5, 5] and [11].
 
 // LeetCode 1416
-
+// PartitionEqualSubsetSum
 class Solution {
 public:
     bool equalPartition(int arr[], int N, int targetSum)
