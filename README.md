@@ -14,7 +14,7 @@ This project serves as:
 
 * Organized folders corresponding to lectures / chapters (e.g., Arrays, Searching, Sorting, OOPs).
 * Each folder contains C++ source files (`.cpp`) implementing one or more algorithm/topic.
-* Example topics: dynamic arrays, binary search, merge sort, pointers, encapsulation.
+* Example topics: dynamic arrays binary search, merge sort, pointers, encapsulation.
 * Code written with readability in mind (clear variable names, comments, self-contained examples).
 
 ## 🛠 How to use
