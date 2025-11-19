@@ -1,7 +1,3 @@
-Here’s a concise **README.md** draft you can place in the root of your repository DSA‑With‑Cpp (on GitHub under your username). Feel free to modify any part to match your style or add more details.
-
----
-
 # DSA-With-Cpp
 
 A repository of Data Structures & Algorithms implemented in C++.
