@@ -11,7 +11,7 @@ void print(int arr[], int s, int e)
       }
       cout << endl;
 }
-
+// Binary search function 
 bool BinarySearch(int *arr, int s, int e, int k)
 {
       cout << endl;
