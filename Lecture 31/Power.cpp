@@ -1,5 +1,5 @@
 // Find the power of any number 
-
+// Power
 #include <iostream>
 using namespace std;
 
