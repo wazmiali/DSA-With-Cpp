@@ -88,5 +88,11 @@ int main()
       insertNode(tail, 5, 6);
       print(tail);
 
+      insertNode(tail, 9, 10);
+      print(tail);
+
+      insertNode(tail, 3, 4);
+      print(tail);
+
       return 0;
 }
