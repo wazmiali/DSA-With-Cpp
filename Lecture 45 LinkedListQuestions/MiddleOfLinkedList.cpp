@@ -1,3 +1,4 @@
+// Middle of Linked List
 int getLength(Node *head){
 
     int len = 0;
@@ -24,4 +25,5 @@ Node* findMiddle(Node * head){
 
     return temp;
 }
+
 
