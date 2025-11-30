@@ -1,4 +1,4 @@
-// Code 360
+// Code 360 Ninjas
 // Middle of Linked List
 int getLength(Node *head){
 
@@ -26,7 +26,3 @@ Node* findMiddle(Node * head){
 
     return temp;
 }
-
-
-
-
