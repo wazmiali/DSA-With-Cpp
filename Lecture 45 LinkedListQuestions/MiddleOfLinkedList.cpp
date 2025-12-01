@@ -15,7 +15,7 @@ int getLength(Node *head){
 Node* findMiddle(Node * head){
     int len = getLength(head);
     int ans =(len/2);
-
+// Node ka head
     Node* temp = head;
     int cnt = 0;
 
@@ -26,3 +26,4 @@ Node* findMiddle(Node * head){
 
     return temp;
 }
+
