@@ -42,7 +42,7 @@ void merge(int *arr, int s, int e)
                   arr[mainArrayIndex++] = second[index2++];
             }
       }
-
+// check the index length
       while (index1 < len1)
       {
             arr[mainArrayIndex++] = first[index1++];
