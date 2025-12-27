@@ -18,7 +18,7 @@ Node* findMiddle(Node * head){
 // Node ka head
     Node* temp = head;
     int cnt = 0;
-
+// check the condition 
     while(cnt < ans){
         temp = temp -> next;
         cnt++;        
@@ -27,5 +27,6 @@ Node* findMiddle(Node * head){
     return temp;
     // temp
 }
+
 
 
