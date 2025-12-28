@@ -12,7 +12,7 @@ public:
         this->prev = NULL;
         this->next = NULL;
     }
-
+// Constructor
     ~Node() {
         int val = this->data;
         if (next != NULL) {
@@ -168,3 +168,4 @@ int main() {
 
     return 0;
 }
+
