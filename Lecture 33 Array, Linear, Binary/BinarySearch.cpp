@@ -29,7 +29,7 @@ bool BinarySearch(int *arr, int s, int e, int k)
       // element found
       if (arr[mid] == k)
             return true;
-
+// MID
       if (arr[mid] < k)
       {
             return BinarySearch(arr, mid + 1, e, k);
