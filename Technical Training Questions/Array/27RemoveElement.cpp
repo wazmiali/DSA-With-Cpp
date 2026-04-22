@@ -28,9 +28,9 @@ int main()
       vector<int> nums = {3, 2, 2, 3};
       int val = 3;
 
-      int result = sol.removeElement(nums,val);
+      int result = sol.removeElement(nums, val);
 
-      cout<<"Remove Element: "<< result <<endl;
+      cout << "Remove Element: " << result << endl;
 
       return 0;
 }
