@@ -6,9 +6,7 @@ class Complex
       int real, img;
 
 public:
-
-      Complex()
-      {
+      Complex() {
 
       };
 
@@ -20,8 +18,7 @@ public:
 
       void display()
       {
-            cout << real <<" +i " << img << endl;
-            
+            cout << real << " +i " << img << endl;
       }
 
       Complex operator+(Complex &C)
@@ -33,8 +30,7 @@ public:
       }
 };
 
-int
-main()
+int main()
 {
       Complex C1(3, 4);
       Complex C2(4, 6);
