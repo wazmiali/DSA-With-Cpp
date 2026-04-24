@@ -1,5 +1,5 @@
 // Exception handling is a mechanism to handle runtime errors in a controlled manner. It allows developers to write code that can gracefully handle errors and exceptions without crashing the program. In C++, exception handling is done using try, catch, and throw keywords.
-
+// Exception handling
 #include <bits/stdc++.h>
 using namespace std;
 
